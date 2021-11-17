@@ -1,2 +1,2 @@
 # Chapter 01
-noi dung mon hoc
+Nội dung môn học trong chương 1
